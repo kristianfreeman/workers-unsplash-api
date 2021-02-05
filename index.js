@@ -55,5 +55,5 @@ async function handleRequest(event) {
 
   // Redirect any other requests to a different URL, such as
   // your deployed React application
-  return new Response.redirect("https://bytesized.xyz")
+  return new Response.redirect("https://workers-unsplash-viewer.pages.dev")
 }
